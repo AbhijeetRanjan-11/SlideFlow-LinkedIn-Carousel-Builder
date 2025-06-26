@@ -1,11 +1,13 @@
 🖼️ LinkedIn Carousel Generator — Full Project Overview
 
 The LinkedIn Carousel Generator is a Python-based desktop application designed to simplify the creation of professional, branded carousels in PDF format. Whether you're crafting content for LinkedIn, Instagram, or personal branding, this tool lets you generate consistent, square-format slides with minimal effort — all without needing complex design software.
+
 🎯 Purpose & Use Case
 
 This project addresses the growing demand for visual storytelling on platforms like LinkedIn, where multi-slide PDF carousels improve engagement, communicate ideas, and promote personal or business brands effectively.
 
 Instead of relying on tools like Canva or Photoshop, this generator provides a quick, no-code solution to produce ready-to-upload carousel posts with your branding, images, and custom styles.
+
 ⚙️ Key Functionalities
 
 ✔️ Slide Content Creation:
@@ -60,6 +62,7 @@ Instead of relying on tools like Canva or Photoshop, this generator provides a q
 
 
 📂 How the Code Works
+
 1️⃣ Slide Management
 
     Users input text, background color, text color, and optionally a background image
